@@ -1,0 +1,63 @@
+ /* .form{ */
+    /* border: solid rgb(141, 137, 137);
+    margin: 0 auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center; */
+/* }
+.form input{
+    padding: 10px 15px;
+    width: 60%;
+    border: solid rgb(209, 167, 174);
+    border-radius: 5px;
+    background-color: rgb(231, 168, 178);
+}
+#myCheckbox{
+    margin-right: 800px;
+} */
+
+
+.form {
+    border: solid rgb(141, 137, 137);
+    margin: 0 auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form input[type="checkbox"],
+  .form input[type="text"] {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px; /* Adjust the margin as per your preference */
+  }
+  
+  .form input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .form input[type="text"] {
+    padding: 10px 15px;
+    width: 70%;
+    border: solid rgb(209, 167, 174);
+    border-radius: 5px;
+    background-color: rgb(231, 168, 178);
+  }
+  .list{
+    text-align: center;
+  }
+  #form{
+    text-align: center;
+  }
+  
+
+    
+
+
+    

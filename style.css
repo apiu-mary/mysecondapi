@@ -52,8 +52,10 @@
   .list{
     text-align: center;
   }
-  #form{
-    text-align: center;
+  #container{
+    margin-left: 40%;
+    background-color:rgb(76, 76, 110);
+    width: 300px;
   }
   
 
